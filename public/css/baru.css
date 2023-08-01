@@ -1,0 +1,35 @@
+body{
+    /* background-image: url("../img/img7.jpg"); */
+    background-color: #90EE90;
+}
+
+.modal-body{
+    background-image: url("../img/img7.jpg");
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    /* background-color: bisque; */
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    
+}
+
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: greenyellow;
+}
+
+nav{
+    background-color: indianred;
+}
+
+.table_new{
+    background: url('/img/ab.png') center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
